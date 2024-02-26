@@ -1,0 +1,12 @@
+{
+  "name": "phishinglinks",
+  "version": "1.0.0",
+  "description": "List of all phishing links",
+  "main": "index.js",
+  "scripts": {
+    "clean": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
